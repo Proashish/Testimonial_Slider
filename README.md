@@ -1,1 +1,1 @@
-# Testimonial_Slider
+simple Testimonal SLider using HTML,CSS,JAVASCIPT 
